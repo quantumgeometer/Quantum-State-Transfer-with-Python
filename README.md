@@ -3,10 +3,10 @@
 A Python implemention of perfect state transfer over noisy Heisenberg spin chains, with quantum error correction. 
 
 ## Software
-This library makes use of the following software:
-- [Array programming with {NumPy}](Nature 585, 357–362 (2020)), Harris, C.R., Millman, K.J., van der Walt, S.J. et al.
+We make use of the following Python packages:
+- [Array programming with NumPy](Nature 585, 357–362), Harris, C.R., Millman, K.J., van der Walt, S.J. et al.
 - [Fundamental Algorithms for Scientific Computing in Python](Nature Methods, 17(3), 261-272.), Virtanen, P. et al.
-- [Matplotlib: A 2D graphics environment](Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007), J. D. Hunter.
+- [Matplotlib: A 2D graphics environment](Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95), J. D. Hunter.
 
 ## Licence
 
