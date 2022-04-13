@@ -1,6 +1,6 @@
 # Numerically simulating Quantum State Transfer
 
-A Python implemention of perfect state transfer over noisy Heisenberg spin chains, with quantum error correction. 
+A Python implemention of perfect state transfer over Heisenberg spin chains. 
 
 ## Software
 We make use of the following Python packages:
